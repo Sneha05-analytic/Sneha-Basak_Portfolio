@@ -21,3 +21,7 @@ Machine Learning Projects
 [Project4:VACCINE USAGE PREDICTION (Logistic Regression)](https://github.com/Sneha05-analytic/Machine-Learning-Projects/blob/main/Vaccine%20Usage%20Prediction%20LOGISTIC%20REGRESSION.ipynb)
 
 > Predict how likely it is that the people will take an H1N1 flu vaccine using Logistic Regression.
+
+[Project5:TRAFFIC FORECASTING BY TIME SERIES ANALYSIS](https://github.com/Sneha05-analytic/Machine-Learning-Projects/blob/main/Traffic%20forecasting%20by%20Time%20series%20analysis.ipynb)
+
+> They usually invest in B2C start-ups less than 4 years old looking for pre-series A funding. In order to help Unicorn Ventures in their decision, I need to forecast the           traffic on JetRail for the next 7 months.
