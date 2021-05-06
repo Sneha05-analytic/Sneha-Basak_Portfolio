@@ -15,3 +15,12 @@ Machine Learning Projects
 > These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others. 
 > To automate this process, they have given a problem to identify the customers segments, those are eligible for loan amount so that they can specifically target these customers.
 > This is a standard supervised classification task.A classification problem where we have to predict whether a loan would be approved or not. Below is the dataset attributes with   description.
+
+[Project3:TURKEY STUDENT EVALUATION (Clustering)](https://github.com/Sneha05-analytic/Machine-Learning-Projects/blob/main/Turkey%20student%20evaluation%20.ipynb)
+
+> Data set contains a total 5820 evaluation scores provided by students from Gazi University in Ankara (Turkey). There is a total of 28 course specific questions and additional 5   attributes.
+> Now evaluation form filled out by students for different courses. It has different attributes including attendance, difficulty, score for each evaluation question, among           others.
+> This is a standard clustering task.We concluded that using data of student evaluation for courses is useful to predict the factors that affect their
+  achievement 
+> Predict instructors’ performance. Moreover, it is another point of view to improve educational quality which is vital to attract students while most of the researchers used CGPA   and internal assessment attributes to predict students’ performance to enhance educational system. 
+> Furthermore removing the worst ranked attributes that have a lower impact on dataset increased the algorithms performance accuracies.
