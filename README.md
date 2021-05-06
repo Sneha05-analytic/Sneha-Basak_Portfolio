@@ -11,7 +11,7 @@ Machine Learning Projects
 > Objective is to compare and predict the profit of 50 startup for different state and after succefully analysing deploy it to power bi for effective visualization.
 
 
-![Comparing ACTUAL PROFIT and PREDICTED PROFIT for 50 startups ](https://github.com/Sneha05-analytic/Machine-Learning-Projects/blob/main/Capture.PNG)
+![](https://github.com/Sneha05-analytic/Machine-Learning-Projects/blob/main/Capture.PNG)
 
 [Project3:LOAN PREDICTION ANALYSIS (Classification)](https://github.com/Sneha05-analytic/Machine-Learning-Projects/blob/main/Loan%20prediction%20analysis%20%2Cclassification.ipynb)
 
