@@ -25,3 +25,8 @@ Machine Learning Projects
 [Project5:TRAFFIC FORECASTING BY TIME SERIES ANALYSIS](https://github.com/Sneha05-analytic/Machine-Learning-Projects/blob/main/Traffic%20forecasting%20by%20Time%20series%20analysis.ipynb)
 
 > They usually invest in B2C start-ups less than 4 years old looking for pre-series A funding. In order to help Unicorn Ventures in their decision, I need to forecast the           traffic on JetRail for the next 7 months.
+
+[Project6: TWITTER SENTIMENT Analysis- NLP](https://github.com/Sneha05-analytic/Machine-Learning-Projects/blob/main/Twitter%20sentiment%20analysis-%20NLP%20.ipynb)
+
+> The objective of this task is to detect hate speech in tweets. For the sake of simplicity, we say a tweet contains hate speech if it has a racist or sexist sentiment             associated  with it. So, the task is to classify racist or sexist tweets from other tweets.
+
