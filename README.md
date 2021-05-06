@@ -1,4 +1,14 @@
 # Sneha-Basak_Portfolio
+Hi there 👋
+My name is Sneha Basak, I am skilled in Python, Data Science, Machine Learning and Deep Learning. This is my personal Github Portfolio account where I upload interesting projects related to Python, Data Science and Machine Learning.
+
+How to reach me 📱
+
+LinkedIn - www.linkedin.com/in/sneha-basak-36a7ab209
+Email - snehabasak.albd@gmail.com
+
+
+
 Machine Learning Projects
 
 [Project1: BIG MARKET SALES PREDICTION](https://github.com/Sneha05-analytic/Machine-Learning-Projects/blob/main/BIG%20MARKET%20sales%20prediction.ipynb)
