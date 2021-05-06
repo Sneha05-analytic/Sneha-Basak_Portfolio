@@ -5,6 +5,7 @@ My name is Sneha Basak, I am skilled in Python, Data Science, Machine Learning a
 How to reach me 📱
 
 LinkedIn - www.linkedin.com/in/sneha-basak-36a7ab209
+
 Email - snehabasak.albd@gmail.com
 
 
