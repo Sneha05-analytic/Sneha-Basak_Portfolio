@@ -15,12 +15,6 @@ Email - snehabasak.albd@gmail.com
 
 
 
-
-
-
-
-
-
 Machine Learning Projects
 
 [Project1: BIG MARKET SALES PREDICTION](https://github.com/Sneha05-analytic/Machine-Learning-Projects/blob/main/BIG%20MARKET%20sales%20prediction.ipynb)
@@ -42,7 +36,7 @@ Machine Learning Projects
 
 [Project4:TURKEY STUDENT EVALUATION (Clustering)](https://github.com/Sneha05-analytic/Machine-Learning-Projects/blob/main/Turkey%20student%20evaluation%20.ipynb)
 
-> This is a standard clustering task.We concluded that using data of student evaluation for courses is useful to predict the factors that affect their
+> This is a standard clustering task.i concluded that using data of student evaluation for courses is useful to predict the factors that affect their
   achievement 
 > Predict instructors’ performance. Moreover, it is another point of view to improve educational quality which is vital to attract students while most of the researchers used CGPA   and internal assessment attributes to predict students’ performance to enhance educational system. 
 > Furthermore removing the worst ranked attributes that have a lower impact on dataset increased the algorithms performance accuracies.
